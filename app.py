@@ -5,7 +5,7 @@ from io import BytesIO
 import plotly.express as px  
 
 # Set up our App
-st.set_page_config(page_title="💽 Data Sweeper", layout="wide")
+st.set_page_config(page_title="🧙‍♂️ Data Wizard", layout="wide")
 st.title("🧙‍♂️ Data Wizard")
 st.write("Transform your files between CSV and Excel formats with built-in data cleaning and visualization!")
 
